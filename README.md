@@ -1,6 +1,6 @@
 # My Git and Blog
-- github: [!https://github.com/laileman](https://github.com/laileman)
-
+- Github: [!https://github.com/laileman](https://github.com/laileman)
+- My Blog: [!https://www.cnblogs.com/lemanlai/](https://www.cnblogs.com/lemanlai/)
 <!--
 **laileman/laileman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
