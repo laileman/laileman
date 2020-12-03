@@ -1,7 +1,4 @@
-# Hi there 👋
-
-
-# My GitHub and Blog
+# My Git and Blog
 - github: [!https://github.com/laileman](https://github.com/laileman)
 
 <!--
