@@ -17,9 +17,9 @@
 
 ## My Skills
 
-| Skills | Years | Skills     | Years |
-| ------ | ----- | ---------- | ----- |
-| Linux  | 6     | Docker     | 4     |
-| Zabbix | 6     | Kubernetes | 4     |
-| Nginx  | 6     |            |       |
+| Skills | Years |      | Skills     | Years |
+| ------ | ----- | ---- | ---------- | ----- |
+| Linux  | 6     |      | Docker     | 4     |
+| Zabbix | 6     |      | Kubernetes | 4     |
+| Nginx  | 6     |      |            |       |
 
