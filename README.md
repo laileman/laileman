@@ -1,11 +1,6 @@
-<table border="0" bgcolor="white"  >
-    <tr>
-     <td><font size="5" >最初的梦想，还会实现！！</font></td>
-    <td > <img  align="right" src="README.assets/touxiang.png"</td>
-    </tr>
-</table>
-
-----
+> 学会坚韧，学会忍耐，学会等待，学会安静缓慢地成长，学会用微笑看迟迟的花开。
+>
+> Tough,  Patience, Waiting, Grow slowly,  Smile
 
 ## I'm Leman    
 
