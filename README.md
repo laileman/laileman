@@ -23,3 +23,14 @@
 | Zabbix | 6     |      | Kubernetes | 4     |
 | Nginx  | 6     |      |            |       |
 
+<table border="2">
+    <tr bgcolor="white">
+		<th>Skills</th><td>Skills</td><td bgcolor="red">Skills</td><td>Skills</td><td>Skills</td><td>Skills</td>
+    </tr>
+    <tr bgcolor="white">
+		<td>Linux</td><td>6</td><td bgcolor="red">Linux</td><td>6</td><td>Linux</td><td>6</td>
+	</tr>
+</table>
+
+
+
